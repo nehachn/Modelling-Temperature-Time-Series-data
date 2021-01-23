@@ -13,9 +13,9 @@ Pandas
 
 Mathplotlib
 
-scikit-learn
+Scikit-learn
 
-statsmodels: provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration
+Statsmodels - provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration
 
 
 
