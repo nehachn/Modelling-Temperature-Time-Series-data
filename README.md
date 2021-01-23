@@ -15,6 +15,16 @@ There were no missing values in the dataset.
 
 The csv file can be found [here](https://drive.google.com/drive/folders/12zqc19nDupRdVkEuQRAH9vfuLWyBDmAy)
 
+# Methodology
+This project uses the Box Jenkins Method for data analysis and forecasting.
+The Box-Jenkins method refers to the iterative application of the following three steps:
+
+Identification: Using plots of the data, autocorrelations, partial autocorrelations, and other information, a class of simple ARIMA models is selected. This amounts to estimating appropriate values for p, d, and q.
+
+Estimation: The phis (ɸ) and thetas (Θ) of the selected model are estimated using least square estimation, maximum likelihood techniques etc.
+
+Diagnostic Checking: The fitted model is checked for inadequacies by considering the autocorrelations of the residual series (the series of residual or error values).
+
 # Libraries
 Numpy
 
